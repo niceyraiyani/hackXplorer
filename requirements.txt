@@ -1,0 +1,4 @@
+ipaddress
+python-nmap
+pyfiglet
+requests
